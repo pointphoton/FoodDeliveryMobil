@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">FoodDelivery Mobil</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email Address :</string>
+    <string name="prompt_password">Password :</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email">Enter e-mail adress</string>
+    <string name="restaurant_header">All Restaurants</string>
+    <string name="restaurant_button_text">Continue</string>
+    <string name="product_header">All Products</string>
+    <string name="product_button">Continue</string>
+    <string name="address_header">Your Addresses</string>
+    <string name="address_button">Complete Order</string>
+    <string name="currency_symbol">\sTL</string>
+    <string name="current_price">0.0</string>
+    <string name="total">Total : </string>
+</resources>
